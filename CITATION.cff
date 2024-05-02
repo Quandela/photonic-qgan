@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Photonic QGAN
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tigran
+    family-names: Sedrakyan
+    email: sedrakyantigran1@gmail.com
+    affiliation: Quandela
+repository-code: 'https://github.com/tigran-sedrakyan/photonic-qgan'
+abstract: >-
+  Photonic implemetation of photonic quantum generative
+  adverserial networks.
