@@ -17,10 +17,5 @@ class Discriminator(nn.Module):
             nn.Sigmoid(),
         )
 
-        # self.model.to(torch.float64)
-
     def forward(self, x):
-        # x.to(torch.float64)
-        # print(x)
-        # print(x.dtype)
         return self.model(x)

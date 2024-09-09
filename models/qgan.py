@@ -4,7 +4,7 @@ import torch
 
 import torch.optim as optim
 
-from .generator import PatchGenerator
+from .generators import PatchGenerator
 from .discriminator import Discriminator
 
 import sys
